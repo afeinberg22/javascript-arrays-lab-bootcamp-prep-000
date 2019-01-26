@@ -1,6 +1,6 @@
 var kittens = ["Milo","Otis", "Garfield"]
 
-Function
+function 
 
 
 
